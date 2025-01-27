@@ -1,6 +1,6 @@
 #                                                                Welcome to My GitHub Profile! 👋
 
-## 👩‍💻 About Me
+
 Hi there! I'm **Ibtissam EL HANI**, a passionate **Full-Stack Developer** specializing in:
 - **Java** & **Spring Boot** for backend development.  
 - **Angular** for building responsive and dynamic web applications.
