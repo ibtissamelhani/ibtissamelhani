@@ -7,7 +7,6 @@ Hi there! I'm **Ibtissam EL HANI**, a passionate **Full-Stack Developer** specia
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtissamelhani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtissamelhani&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ibtissamelhani&theme=radical)
