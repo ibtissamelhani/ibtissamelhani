@@ -10,6 +10,7 @@ Hi there! I'm **Ibtissam EL HANI**, a passionate **Full-Stack Developer** specia
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibtissamelhani&theme=2077)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibtissamelhani&theme=2077)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibtissamelhani&theme=2077)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibtissamelhani&theme=2077)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ibtissamelhani&theme=radical)
