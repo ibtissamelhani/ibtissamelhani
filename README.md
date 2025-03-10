@@ -12,9 +12,6 @@ Hi there! I'm **Ibtissam EL HANI**, a passionate **Full-Stack Developer** specia
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibtissamelhani&theme=2077)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibtissamelhani&theme=2077)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ibtissamelhani&theme=radical)
-
 ## 📫 How to Reach Me
 - 📧 **Email**: [ibtissamelhani48@gmail.com](mailto:ibtissamelhani48@gmail.com)  
 - 🌐 **LinkedIn**: [Ibtissam EL HANI](https://www.linkedin.com/in/ibtissam-el-hani)  
