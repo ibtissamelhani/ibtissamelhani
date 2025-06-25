@@ -5,12 +5,11 @@ Hi, I'm **Ibtissam EL HANI** — a passionate and dedicated **Full Stack Develop
 ## 🛠️ Tech Stack
 
 ### 🔷 **Backend**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-%23009688.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+**Java** · **Spring** · **PostgreSQL**  
+**Angular** · **React** · **Tailwind**  
+**Git** · **Docker** · **Jenkins** · **JUnit**  
 ### 🔷 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
