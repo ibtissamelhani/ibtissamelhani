@@ -35,7 +35,6 @@ Hi, I'm **Ibtissam EL HANI** — a passionate and dedicated **Full Stack Develop
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtissamelhani&show_icons=true&theme=radical)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibtissamelhani&theme=2077)
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibtissamelhani&theme=2077)
 
 ## 📫 Contact Me
