@@ -5,7 +5,7 @@ Hi, I'm **Ibtissam EL HANI** — a passionate and dedicated **Full Stack Develop
 ## 🛠️ Tech Stack
 
 ### 🔷 **Backend**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%23009688.svg?style=for-the-badge&logo=hibernate&logoColor=white)
