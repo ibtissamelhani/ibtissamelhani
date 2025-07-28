@@ -38,8 +38,5 @@ Hi, I'm **Ibtissam EL HANI** — a passionate and dedicated **Full Stack Develop
 - 📧 **Email**: [ibtissamelhani48@gmail.com](mailto:ibtissamelhani48@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/ibtissam-el-hani](https://www.linkedin.com/in/ibtissam-el-hani)
 
-## ✨ Fun Fact
-> 🐞 I don't just fix bugs — I debug with purpose and elegance!
-
 ---
 
